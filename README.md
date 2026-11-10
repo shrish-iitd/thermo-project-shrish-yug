@@ -1,6 +1,6 @@
 # Peng–Robinson EOS | Real-Gas Property Calculator
 
-(Note: The .apk file is present within this repository(compressed in [.zip file](https://github.com/shrish-iitd/thermo-project-shrish-yug/blob/main/apk_file.zip), that can be installed and used it's safe to use and [report has also been uploaded](https://github.com/shrish-iitd/thermo-project-shrish-yug/blob/main/PR_EOS_Report_LaTeX.pdf0).)
+(Note: The .apk file is present within this repository(compressed in [.zip file](https://github.com/shrish-iitd/thermo-project-shrish-yug/blob/main/apk_file.zip), that can be installed and used it's safe to use and [report has also been uploaded](https://github.com/shrish-iitd/thermo-project-shrish-yug/blob/main/PR_EOS_Report_LaTeX.pdf0) as proof that our app is working [screenshots](https://github.com/shrish-iitd/thermo-project-shrish-yug) have also been uploaded.)
 
 
 A Flutter-based thermodynamic software application that predicts the Pressure–Volume–Temperature (PVT) behaviour and thermodynamic properties of real gases using the **Peng–Robinson (PR) Equation of State**.
