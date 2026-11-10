@@ -201,7 +201,7 @@ Add your screenshots inside a folder named `screenshots/` and use the following 
 
 The Android application is available through the GitHub Releases section.
 
-**[Download Latest APK](https://github.com/shrish-iitd/thermo-project-shrish-yug/releases/latest)**
+**[Download Latest APK](https://github.com/shrish-iitd/thermo-project-shrish-yug/blob/main/apk_file.zip)**
 
 Installation:
 1. Download the APK on your Android device.
